@@ -8,6 +8,12 @@
 
 ---
 
+## 🎓 Education  
+**Bachelors in Software Engineering**  
+FAST National University of Computing and Emerging Sciences(2021–Present)  
+
+---
+
 ## 🚀 About Me  
 I’m a passionate **Software Engineer** with a specialty in **cross-platform mobile app development**.  
 I love crafting smooth, scalable, and user-focused apps that solve real-world problems — from **AI-powered travel assistants** to **construction management platforms**.  
@@ -36,19 +42,24 @@ OOP • Data Structures & Algorithms • Design Patterns • Agile • Version C
 
 ---
 
-## 📱 Featured Projects  
 
-### 🔹 [Build Buddy](https://github.com/Umer9538) *(Flutter, Firebase)*  
-Home construction app with project management, vendor integration, contractor selection, and real-time chat.
+### 🔹 Build Buddy *(Flutter, Firebase)*  
+Home construction app with project management, vendor integration, contractor selection, and real-time chat. *(Final Year Project)*
 
-### 🔹 [Mershad – AI-Powered Tour Guide](https://github.com/Umer9538) *(Flutter, AI)*  
+### 🔹 Mershad – AI-Powered Tour Guide *(Flutter, AI, APIs)*  
 Travel assistant for Saudi tourists with Absher/Nafath integration, hotel booking, car rental, currency exchange, and emergency support.
 
-### 🔹 [GroceryMate](https://github.com/Umer9538) *(Flutter, Firebase)*  
+### 🔹 GroceryMate *(Flutter, Firebase)*  
 Smart grocery list app with real-time sharing, barcode scanning, and speech-to-text input.
 
-### 🔹 [HealthSync](https://github.com/Umer9538) *(Flutter)*  
+### 🔹 HealthSync *(Flutter, AI)*  
 Personal health tracker with fitness logging, Google Fit integration, reminders, chatbot, and telemedicine booking.
+
+### 🔹 AI Chatbot Assistant *(Flutter, OpenAI API)*  
+Conversational AI assistant with natural language processing, context awareness, and integration into mobile apps.
+
+### 🔹 SecurePay *(Flutter, Firebase, Stripe)*  
+Secure payment app with Stripe API integration, transaction tracking, and multi-factor authentication.
 
 ---
 
