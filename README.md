@@ -32,7 +32,7 @@ I thrive in hackathons, enjoy building polished products, and love experimenting
 ## 💻 Tech Stack  
 
 **Languages & Tools:**  
-`C++` `Python` `C#` `Java` `Dart` `Flutter` `SQL` `Git` `Docker` `Firebase` `REST APIs`
+`C++` `Python` `C#` `Java` `Dart` `Flutter` `SQL` `Git` `Docker` `Firebase` `REST APIs` `React Native` `Next Js` 
 
 **Mobile Development:**  
 `Flutter` (Provider, Riverpod, Bloc) • `Java` • `Firebase` (Auth, Firestore, Cloud Functions) • `SQLite` • Push Notifications • Play Store & App Store Deployment  
