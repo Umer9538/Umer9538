@@ -10,7 +10,7 @@
 
 ## 🎓 Education  
 **Bachelors in Software Engineering**  
-FAST National University of Computing and Emerging Sciences(2021–Present)  
+FAST National University of Computing and Emerging Sciences(2021–2025)  
 
 ---
 
