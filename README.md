@@ -1,7 +1,6 @@
-<!-- Animated header banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Muhammad%20Umer&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%26%20Full%20Stack%20Developer%20%C2%B7%20Flutter%20%C2%B7%20React%20Native%20%C2%B7%20AI%20Integration&descSize=16&descAlignY=60&animation=fadeIn" alt="header"/>
-</p>
+<h1 align="center">Muhammad Umer</h1>
+
+<h3 align="center">Mobile & Full Stack Developer — Flutter · React Native · Node.js · AI Integration</h3>
 
 <!-- Typing animation tagline -->
 <p align="center">
@@ -18,7 +17,6 @@
   <img src="https://img.shields.io/badge/Faisalabad,_Pakistan-555555?style=for-the-badge" alt="Location"/>
 </p>
 
-<!-- Profile views counter (subtle credibility signal) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Umer9538&label=Profile%20views&color=1F3A5F&style=flat-square" alt="profile views"/>
 </p>
@@ -174,16 +172,10 @@ Two AI-first products built end-to-end as a contract developer: an AI learning a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer9538&layout=compact&theme=default&hide_border=true&langs_count=10" alt="Top Languages" height="170"/>
 </p>
 
-### Contribution Graph
+### Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umer9538&theme=github-light&hide_border=true&area=true&custom_title=Commit%20Activity%20%E2%80%94%20Last%2031%20Days" alt="Activity Graph"/>
-</p>
-
-### Snake Eating My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Umer9538/Umer9538/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://ghchart.rshah.org/1F3A5F/Umer9538" alt="Muhammad Umer's GitHub Contribution Chart"/>
 </p>
 
 ---
@@ -215,8 +207,4 @@ Currently open to opportunities — particularly mobile, full-stack, and AI-lean
 <p align="center">
   <a href="https://linkedin.com/in/muhammadumer2521"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:muhammadumer7574@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=80&section=footer" alt="footer"/>
 </p>
