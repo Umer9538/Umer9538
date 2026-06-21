@@ -1,7 +1,16 @@
-<h1 align="center">Muhammad Umer</h1>
+<!-- Animated header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Muhammad%20Umer&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%26%20Full%20Stack%20Developer%20%C2%B7%20Flutter%20%C2%B7%20React%20Native%20%C2%B7%20AI%20Integration&descSize=16&descAlignY=60&animation=fadeIn" alt="header"/>
+</p>
 
-<h3 align="center">Mobile & Full Stack Developer — Flutter · React Native · Node.js · AI Integration</h3>
+<!-- Typing animation tagline -->
+<p align="center">
+  <a href="https://github.com/Umer9538">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=1F3A5F&center=true&vCenter=true&width=720&lines=Shipping+production+mobile+apps+with+native+depth.;Building+AI-integrated+products+end-to-end.;Hardware-connected+mobile+%E2%80%94+BLE%2C+NFC%2C+WebSockets.;Two+investor-acquired+products+%E2%80%94+and+counting." alt="typing"/>
+  </a>
+</p>
 
+<!-- Quick contact row -->
 <p align="center">
   <a href="mailto:muhammadumer7574@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/muhammadumer2521"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -9,16 +18,33 @@
   <img src="https://img.shields.io/badge/Faisalabad,_Pakistan-555555?style=for-the-badge" alt="Location"/>
 </p>
 
+<!-- Profile views counter (subtle credibility signal) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Umer9538&label=Profile%20views&color=1F3A5F&style=flat-square" alt="profile views"/>
+</p>
+
 ---
 
 ## About
 
-I'm a Mobile & Full Stack Developer specialising in production-grade cross-platform applications and AI-integrated products. My work spans mobile (iOS, Android, Web), backend services, and cloud infrastructure — with a particular interest in hardware-connected mobile experiences (BLE, NFC), real-time systems, and integrating LLMs into products that solve real problems.
+I build production-grade mobile and full-stack applications, with a particular focus on hardware-connected mobile experiences (BLE, NFC), real-time systems, and integrating LLMs into products that solve real problems. My work spans iOS, Android, Web, backend services, and cloud infrastructure.
 
 - Currently **Senior Mobile App Developer** at **Infinitiv.AI**, Lahore
 - Shipped **two investor-acquired AI products** as a contract developer at **DriftMeta**
 - Promoted from Associate Engineer to **Full Stack Engineer** at **Vireon Solutions**
 - **BS Computer Science** (Major in Generative AI), **FAST National University**, Islamabad — Dean's List × 3
+
+---
+
+## Currently
+
+```yaml
+Role:        Senior Mobile App Developer @ Infinitiv.AI
+Working on:  Real-time mobile features · BLE communication · Live translation
+Learning:    Advanced React Native architecture · AI-augmented development workflows
+Open to:     Mobile · Full Stack · AI engineering roles (remote / NZ / AU / EU)
+Toolkit:     Claude, Cursor, Figma, Postman
+```
 
 ---
 
@@ -125,6 +151,43 @@ Two AI-first products built end-to-end as a contract developer: an AI learning a
 
 ---
 
+## How I Work
+
+> **Ship over polish, but never below the bar.** Outcomes matter more than perfection. Ship the smallest thing that actually works, then iterate with real signal.
+>
+> **Own the whole loop.** From product conversation to architecture to deployment to the metric that proves it worked. Hand-offs are where things break.
+>
+> **AI as leverage, not a shortcut.** I use Claude and Cursor every day — for code review, refactoring, and exploring tradeoffs. The point is to ship better software faster, never to skip the thinking.
+>
+> **Real apps live in the real world.** Production code has to work in a paddock in the rain, on a low-end device, on a flaky connection. Build for that, not the demo.
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Umer9538&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umer9538&theme=default&hide_border=true" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer9538&layout=compact&theme=default&hide_border=true&langs_count=10" alt="Top Languages" height="170"/>
+</p>
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umer9538&theme=github-light&hide_border=true&area=true&custom_title=Commit%20Activity%20%E2%80%94%20Last%2031%20Days" alt="Activity Graph"/>
+</p>
+
+### Snake Eating My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Umer9538/Umer9538/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
 ## Other Projects
 
 - **GroceryMate** *(Flutter, Firebase)* — Smart grocery list app with real-time sharing, barcode scanning, and speech-to-text input
@@ -145,23 +208,15 @@ Two AI-first products built end-to-end as a contract developer: an AI learning a
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umer9538&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer9538&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## Get in Touch
 
-I'm currently open to opportunities — particularly mobile, full-stack, and AI-leaning roles. If you're hiring or interested in collaborating, please get in touch.
+Currently open to opportunities — particularly mobile, full-stack, and AI-leaning roles. Open to remote work and to relocating (New Zealand, Australia, EU).
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammadumer2521"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:muhammadumer7574@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=80&section=footer" alt="footer"/>
 </p>
