@@ -1,11 +1,11 @@
 <h1 align="center">Muhammad Umer</h1>
 
-<h3 align="center">Mobile & Full Stack Developer — Flutter · React Native · Node.js · AI Integration</h3>
+<h3 align="center">Mobile & Full Stack Engineer · Testing & Safety Infrastructure for On-Device AI</h3>
 
 <!-- Typing animation tagline -->
 <p align="center">
   <a href="https://github.com/Umer9538">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=1F3A5F&center=true&vCenter=true&width=720&lines=Shipping+production+mobile+apps+with+native+depth.;Building+AI-integrated+products+end-to-end.;Hardware-connected+mobile+%E2%80%94+BLE%2C+NFC%2C+WebSockets.;Two+investor-acquired+products+%E2%80%94+and+counting." alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=1F3A5F&center=true&vCenter=true&width=760&lines=Building+testing+%26+safety+infrastructure+for+on-device+AI.;Author+of+7+open-source+packages+%E2%80%94+500%2B+tests%2C+3+languages.;Shipping+production+mobile+apps+with+native+depth.;Two+investor-acquired+AI+products+%E2%80%94+and+counting." alt="typing"/>
   </a>
 </p>
 
@@ -25,11 +25,12 @@
 
 ## About
 
-I build production-grade mobile and full-stack applications, with a particular focus on hardware-connected mobile experiences (BLE, NFC), real-time systems, and integrating LLMs into products that solve real problems. My work spans iOS, Android, Web, backend services, and cloud infrastructure.
+I build production-grade mobile and full-stack applications, and I'm the author of a seven-package open-source testing and safety layer for on-device AI. My work spans mobile (iOS, Android, Web), backend services, cloud infrastructure — and, increasingly, the tooling that keeps on-device AI models honest between OS updates.
 
-- Currently **Senior Mobile App Developer** at **Infinitiv.AI**, Lahore
+- **5+ years professional experience** across mobile-first delivery, AI integration, and full-stack backend
+- Currently **Software Engineer** at **Infinitiv.AI**, Lahore
+- Author of **seven open-source packages** — ~500 tests across Swift, TypeScript, and Dart
 - Shipped **two investor-acquired AI products** as a contract developer at **DriftMeta**
-- Promoted from Associate Engineer to **Full Stack Engineer** at **Vireon Solutions**
 - **BS Computer Science** (Major in Generative AI), **FAST National University**, Islamabad — Dean's List × 3
 
 ---
@@ -37,31 +38,51 @@ I build production-grade mobile and full-stack applications, with a particular f
 ## Currently
 
 ```yaml
-Role:        Senior Mobile App Developer @ Infinitiv.AI
-Working on:  Real-time mobile features · BLE communication · Live translation
-Learning:    Advanced React Native architecture · AI-augmented development workflows
-Open to:     Mobile · Full Stack · AI engineering roles (remote / NZ / AU / EU)
-Toolkit:     Claude, Cursor, Figma, Postman
+Role:         Software Engineer @ Infinitiv.AI
+Open source:  Testing & safety layer for on-device AI (7 packages, ~500 tests)
+Recent:       Published finding — Apple's on-device model failing parity with itself
+Learning:     LLM eval methodology · statistical testing at scale
+Open to:      AI safety / eval infrastructure · Mobile · Full Stack (remote / relocation)
+Toolkit:      Claude, Cursor, Xcode, VS Code
 ```
+
+---
+
+## Open Source
+
+### Testing & Safety Layer for On-Device AI — 2026
+
+Author of seven open-source packages (~500 tests across Swift, TypeScript, and Dart) providing regression gates, deterministic record/replay, PII redaction, and drift observability for on-device AI. Every claim below is verifiable in a public repository.
+
+| Package | Purpose | Notable |
+|---|---|---|
+| **unswayed** *(Swift + npm)* | Statistical parity gate for AI model swaps | Wilson/Newcombe confidence intervals · Published finding: Apple's on-device model failing parity with itself (compliance 100% → 40%, 95% CI [−0.88, −0.03]) |
+| **[underfoot](https://umer9538.github.io/underfoot)** | Public drift observatory for OS-bundled AI models | Live findings on Apple & Google AI silently drifting between OS builds |
+| **vouch** *(pub.dev)* | CI regression gate for on-device LLMs | 85 tests · Hardened by 2 adversarial audit rounds |
+| **llm_replay_eval** *(pub.dev)* | Deterministic record/replay for on-device LLMs | The "VCR" HTTP-based tools can't be — cassettes make LLM tests offline & CI-safe |
+| **redact** *(pub.dev)* | On-device PII redaction around every LLM call | 164 tests · Zero dependencies · 15+ secret/PII detectors with checksum validation |
+| **golden_lens** *(pub.dev)* | Agent-legible golden/visual tests | Machine-readable reports an AI coding agent can act on directly |
+
+**Why this work exists:** LLMs are being shipped into products where quiet regressions have real consequences — a model swap that silently changes behavior, an availability API that reports "available" while every generation fails, a guardrail layer that drifts between OS builds. The tooling to catch these problems doesn't fully exist yet. These packages are my attempt to build some of it.
 
 ---
 
 ## Experience
 
-### Senior Mobile App Developer — Infinitiv.AI
-*Lahore, Pakistan · 2025 – Present*
+### Software Engineer — Infinitiv.AI
+*Lahore, Pakistan · Hybrid · Aug 2025 – Present*
 
 Architecting production Flutter and React Native applications with native modules in Kotlin, Java, and Swift. Building real-time features including BLE device communication, live translation, speech-to-text, text-to-speech, and WebSocket-based streaming. Deploying backend services on AWS EC2 with Docker and CI/CD pipelines.
 
 ### Mobile & Full Stack Developer (Contract) — DriftMeta
-*Remote · 2025 – 2026*
+*Islamabad, PK · Remote · May 2025 – Oct 2025*
 
 Built and scaled two investor-acquired, AI-first products end-to-end: an AI-driven learning app with real-time code evaluation and personalised learning paths (Flutter, Flask, LangChain, OpenAI, WebRTC), and a Maternity Care Chatbot for medical consultancy (Flutter, Node.js, Firebase). Owned the full product lifecycle from ideation through investor handoff.
 
-### Full Stack Engineer — Vireon Solutions
-*Islamabad, Pakistan · 2023 – 2025 · Promoted from Associate Engineer*
+### Mobile Application Developer → Full Stack Engineer — Vireon Solutions
+*Islamabad, Pakistan · Remote · Nov 2020 – Apr 2025 · Promoted 2024*
 
-Designed REST APIs in Node.js and FastAPI powering AI features (NLP chat, speech recognition, recommendation engines) using TensorFlow, PyTorch, and LangChain. Developed RAG architectures with FAISS and ChromaDB vector search, integrated with Redis caching, for fast semantic retrieval in production. Deployed across AWS EC2 and Heroku with Docker and CI/CD.
+Joined as a junior developer during the first year of university and grew over 4.5 years across mobile-first delivery, AI feature integration, and full-stack backend work. Built REST APIs in Node.js and FastAPI powering AI features (NLP chat, speech recognition, recommendation engines) using TensorFlow, PyTorch, and LangChain. Developed RAG architectures with FAISS and ChromaDB, integrated with Redis caching, for fast semantic retrieval in production.
 
 ---
 
@@ -72,10 +93,10 @@ Designed REST APIs in Node.js and FastAPI powering AI features (NLP chat, speech
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -105,6 +126,14 @@ Designed REST APIs in Node.js and FastAPI powering AI features (NLP chat, speech
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FAISS_·_ChromaDB-blueviolet?style=flat-square)
 
+**Testing & Evaluation**
+
+![Statistical Testing](https://img.shields.io/badge/Statistical_Testing-Wilson%2FNewcombe_CIs-1F3A5F?style=flat-square)
+![LLM Evals](https://img.shields.io/badge/LLM_Evals-Record%2FReplay-1F3A5F?style=flat-square)
+![XCTest](https://img.shields.io/badge/XCTest-0F0F0F?style=flat-square&logo=swift&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
 **Databases & Cloud**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -125,7 +154,7 @@ Designed REST APIs in Node.js and FastAPI powering AI features (NLP chat, speech
 
 ---
 
-## Featured Projects
+## Featured Product Projects
 
 ### First Air Tag — NFC-Based Emergency Medical Platform
 *React Native · Expo · Next.js 14 · PostgreSQL · Prisma ORM · AWS EC2*
@@ -137,27 +166,29 @@ A full-stack platform enabling first responders to read encrypted medical profil
 
 A cross-platform construction management application for homeowners, contractors, architects, and vendors to collaboratively track budgets, milestones, and progress. Automated milestone-budget allocation system, real-time multi-role synchronisation, Stripe payments, in-app messaging, weather forecasting, and SLA tracking.
 
-### Mershed — AI-Powered Travel Companion
-*Flutter · Gemini 1.5 Flash · Google Maps · Routes API · Nominatim · Overpass*
-
-An AI travel assistant generating personalised itineraries across five Saudi cities based on budget, season, and user preferences. Includes a TravelGenie chatbot with offline-capable caching and Firestore-based human-support escalation. Integrated with Hotels.com and Event APIs for live booking.
-
 ### DriftMeta Products *(Investor-acquired)*
 *Flutter · React · Flask · Node.js · LangChain · OpenAI · WebRTC · Firebase*
 
 Two AI-first products built end-to-end as a contract developer: an AI learning app with real-time code evaluation and personalised learning paths, and a Maternity Care Chatbot providing structured medical consultancy for expecting mothers.
 
+### Mershed — AI-Powered Travel Companion
+*Flutter · Gemini 1.5 Flash · Google Maps · Routes API · Nominatim · Overpass*
+
+An AI travel assistant generating personalised itineraries across five Saudi cities. Includes a TravelGenie chatbot with offline-capable caching. Integrated with Hotels.com and Event APIs for live booking.
+
 ---
 
 ## How I Work
 
+> **Trust the tests, not the vendor.** On-device AI models silently drift between OS builds. Availability APIs lie. If your only source of truth is a vendor's documentation, you're already wrong. Verify.
+>
 > **Ship over polish, but never below the bar.** Outcomes matter more than perfection. Ship the smallest thing that actually works, then iterate with real signal.
 >
 > **Own the whole loop.** From product conversation to architecture to deployment to the metric that proves it worked. Hand-offs are where things break.
 >
-> **AI as leverage, not a shortcut.** I use Claude and Cursor every day — for code review, refactoring, and exploring tradeoffs. The point is to ship better software faster, never to skip the thinking.
+> **AI as leverage, not a shortcut.** I use Claude and Cursor every day — for code review, refactoring, exploring trade-offs. The point is to ship better software faster, never to skip the thinking.
 >
-> **Real apps live in the real world.** Production code has to work in a paddock in the rain, on a low-end device, on a flaky connection. Build for that, not the demo.
+> **Real systems live in the real world.** Production code has to work on a low-end device, on a flaky connection, on an OS build that changed something silently overnight. Build for that, not the demo.
 
 ---
 
@@ -202,7 +233,9 @@ Two AI-first products built end-to-end as a contract developer: an AI learning a
 
 ## Get in Touch
 
-Currently open to opportunities — particularly mobile, full-stack, and AI-leaning roles. Open to remote work and to relocating (New Zealand, Australia, EU).
+Currently open to opportunities in **AI safety & eval infrastructure**, **mobile engineering**, and **full-stack engineering**. Open to remote work and to relocating (New Zealand, Australia, EU, US).
+
+If you're working on the reliability, safety, or evaluation of AI systems — especially on-device — I'd love to talk.
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammadumer2521"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
