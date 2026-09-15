@@ -276,9 +276,6 @@ Consultancy chatbot for expecting mothers over a structured medical knowledge ba
 
 - **1st Place** — Software Sprint (2020)
 - **1st Place** — DAIRA (2021)
-- **3rd Place** — Cross-Platform Mobile App Hackathon, GIKI (2025)
-- **Winner** — Speed Programming, NASCON (2024)
-- **Dean's List** — Fall 2021, Spring 2022, Fall 2024 (top 10% of cohort)
 - **Admin Head, FCAP** — Led 100+ members at the FAST Club of App Development &amp; Programming, across CS, AI, GenAI, and Data Science
 - **Teaching Assistant** — Supported 600+ students across Programming Fundamentals, OOP, Data Structures, Algorithms, and Artificial Intelligence
 
